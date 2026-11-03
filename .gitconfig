@@ -1,0 +1,5 @@
+[credential]
+	helper = "!f() { /root/.vscode-server/bin/6d62b1d5dace93a33b3a6d3eca1317bd5e15bcb1/node /tmp/vscode-remote-containers-fc79cbf2-f006-4858-b9e1-4a7470919871.js git-credential-helper $*; }; f"
+[user]
+	name = Zach Rinehart
+	email = rinehartz@cua.edu
